@@ -8,6 +8,12 @@ This repository contains a deep learning-based model for automatic tuberculosis 
 A detailed explanation of our project is available on YouTube. Watch it here:
 [![Watch the video](https://img.youtube.com/vi/uC4N8Tq56EE/0.jpg)](https://www.youtube.com/watch?v=uC4N8Tq56EE)
 
+## Model Workflow
+The following diagram illustrates the workflow of our TB detection model:
+
+![Model Workflow](Model_illustration.png)
+
+
 ## Features
 - Uses Convolutional Neural Networks (CNNs) for feature extraction
 - Incorporates handcrafted features (Gabor filters) along with deep learning features
@@ -49,11 +55,6 @@ The **Gabor filter** is a linear filter used in image processing for edge detect
 | CNN-based Model    | 86.23%                    | 87.60%                    |
 | Gabor Filter Model | 83.33%                    | 80.67%                    |
 | Ensemble Learning  | **93.47%**                 | **97.59%**                 |
-
-## Model Workflow
-The following diagram illustrates the workflow of our TB detection model:
-
-![Model Workflow](Model_illustration.png)
 
 ## Installation & Usage
 ### Prerequisites
