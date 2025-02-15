@@ -3,6 +3,10 @@
 ## Overview
 This repository contains a deep learning-based model for automatic tuberculosis (TB) detection using chest X-ray images. The model is inspired by the research paper *"Ensemble Learning Based Automatic Detection of Tuberculosis in Chest X-ray Images Using Hybrid Feature Descriptors."* Our approach leverages deep learning and ensemble learning techniques to enhance diagnostic accuracy.
 
+## YouTube Video
+A detailed explanation of our project is available on YouTube. Watch it here:
+[![Watch the video](https://img.youtube.com/vi/uC4N8Tq56EE/0.jpg)](https://www.youtube.com/watch?v=uC4N8Tq56EE)
+
 ## Features
 - Uses Convolutional Neural Networks (CNNs) for feature extraction
 - Incorporates handcrafted features (Gabor filters) along with deep learning features
@@ -92,25 +96,6 @@ Our proposed ensemble model significantly improves TB detection accuracy compare
 - Improve model generalization using data augmentation
 - Deploy the model in a real-time application for TB screening
 
-## YouTube Video
-A detailed explanation of our project is available on YouTube. Watch it here:
-[![Watch the video](https://img.youtube.com/vi/uC4N8Tq56EE/0.jpg)](https://www.youtube.com/watch?v=uC4N8Tq56EE)
 
-## Citation
-If you use this work, please cite:
-```
-@article{TB2021,
-  title={Ensemble Learning Based Automatic Detection of Tuberculosis in Chest X-ray Images Using Hybrid Feature Descriptors},
-  author={Muhammad Ayaz, Furqan Shaukat, Gulistan Raja},
-  journal={Physical and Engineering Sciences in Medicine},
-  year={2021},
-  doi={10.1007/s13246-020-00966-0}
-}
-```
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For queries, feel free to contact [Your Name] at [Your Email].
 
