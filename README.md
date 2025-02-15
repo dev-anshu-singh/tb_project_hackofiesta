@@ -1,4 +1,3 @@
-# tb_project_hackofiesta
 # Tuberculosis Detection using Deep Learning
 
 ## Overview
@@ -49,7 +48,7 @@ The **Gabor filter** is a linear filter used in image processing for edge detect
 ## Model Workflow
 The following diagram illustrates the workflow of our TB detection model:
 
-![Model Workflow](image.png)
+![Model Workflow](Model_illustration.png)
 
 ## Installation & Usage
 ### Prerequisites
@@ -95,7 +94,7 @@ Our proposed ensemble model significantly improves TB detection accuracy compare
 
 ## YouTube Video
 A detailed explanation of our project is available on YouTube. Watch it here:
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/uC4N8Tq56EE/0.jpg)](https://www.youtube.com/watch?v=uC4N8Tq56EE)
 
 ## Citation
 If you use this work, please cite:
@@ -115,4 +114,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 ## Contact
 For queries, feel free to contact [Your Name] at [Your Email].
 
-****
