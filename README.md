@@ -3,6 +3,7 @@
 ## Overview
 This repository contains a deep learning-based model for automatic tuberculosis (TB) detection using chest X-ray images. The model is inspired by the research paper *"Ensemble Learning Based Automatic Detection of Tuberculosis in Chest X-ray Images Using Hybrid Feature Descriptors."* Our approach leverages deep learning and ensemble learning techniques to enhance diagnostic accuracy.
 
+
 ## YouTube Video
 A detailed explanation of our project is available on YouTube. Watch it here:
 [![Watch the video](https://img.youtube.com/vi/uC4N8Tq56EE/0.jpg)](https://www.youtube.com/watch?v=uC4N8Tq56EE)
@@ -68,24 +69,9 @@ The following diagram illustrates the workflow of our TB detection model:
 ### Installation
 Clone the repository and install dependencies:
 ```bash
-$ git clone https://github.com/yourusername/tb-detection.git
-$ cd tb-detection
+$ git clone https://github.com/dev-anshu-singh/tb_project_hackofiesta
+$ cd tb_project_hackofiesta
 $ pip install -r requirements.txt
-```
-
-### Running the Model
-1. Download and place the dataset in the `data/` folder.
-2. Run the preprocessing script:
-```bash
-$ python preprocess.py
-```
-3. Train the model:
-```bash
-$ python train.py
-```
-4. Evaluate the model:
-```bash
-$ python evaluate.py
 ```
 
 ## Results & Discussion
@@ -95,7 +81,5 @@ Our proposed ensemble model significantly improves TB detection accuracy compare
 - Test on larger and more diverse datasets
 - Improve model generalization using data augmentation
 - Deploy the model in a real-time application for TB screening
-
-
 
 
